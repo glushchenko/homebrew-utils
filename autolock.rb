@@ -22,7 +22,7 @@ class Autolock < Formula
     	<string>#{plist_name}</string>
         <key>ProgramArguments</key>
     	<array>
-    	    <string>{opt_bin}/autolock</string>
+    	    <string>#{opt_bin}/autolock</string>
     	    <string>start</string>
     	</array>
         <key>RunAtLoad</key>
