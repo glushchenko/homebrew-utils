@@ -1,8 +1,8 @@
 class Autolock < Formula
   desc "OS X auto locker when lid closed"
   homepage "https://github.com/glushchenko/mac-autolock"
-  url "https://github.com/glushchenko/mac-autolock/archive/1.0.tar.gz"
-  sha256 "c1c89c41ccd3f50db88e7dbbefa9f28e8867d6d96d761b26832e54020024ce81"
+  url "https://github.com/glushchenko/mac-autolock/archive/v1.0.1.tar.gz"
+  sha256 "8a70a4413b0c48b48cd3d04f10231ffdfcb5fd8e40afb153d3a3c54b69c3b2f7"
 
   bottle :unneeded
 
